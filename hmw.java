@@ -3,10 +3,8 @@ package conditionals;
 public class Conditionals {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		
-
 // 1. Write an if/else statement for the following requirements:
 		int grade = 78;
         //student grade 90 or higher A
